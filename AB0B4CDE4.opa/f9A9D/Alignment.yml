@@ -1,0 +1,19 @@
+segment_sources:
+  I038FE95E:
+    type: origin_type
+    relation: translation
+    language: en
+  IC0DBE5C3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  20a170d2656a47b4b5d599b88e4350c1:
+    I038FE95E: 0c526bd18e394cd395e4fef4591c2362
+    IC0DBE5C3: f9fcb8820bac4629beced9128499120d
+  8c077e334d344eaabd50c3007d210a15:
+    I038FE95E: bcc84730abe449ef8cbf35c0dd079a3a
+    IC0DBE5C3: 16c39935b26b472faac58716007370d0
+  68705f9dc7f24575b11418c7e2df9b75:
+    I038FE95E: 71bd8893ecab412084ab3526e22cbd05
+    IC0DBE5C3: b860dc13fbb7488e850f4986db185193
